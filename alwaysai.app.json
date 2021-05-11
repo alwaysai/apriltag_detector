@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "python app.py"
+  },
+  "models": {
+  }
+}
