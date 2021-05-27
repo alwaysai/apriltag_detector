@@ -1,6 +1,6 @@
 # April Tag Detector
 
-This repo contains a basic application that shows you how to detect april tags using the `AprilTagDetector` in edgeiq.
+This repo contains a basic application that shows you how to detect april tags using the `AprilTagDetector` in edgeIQ.
 
 ## Resources
 
